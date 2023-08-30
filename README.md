@@ -64,7 +64,7 @@ https://pinomatcha.booth.pm/items/4606386
 
 ## パラメータ詳細
 
-![inspec](https://booth.pximg.net/7ae40447-3f13-4c32-a1ae-d4f9cd2c3b8f/i/4606386/81e18c52-3c21-4da1-aace-f2baafead9fa.png)
+![inspec]([https://booth.pximg.net/7ae40447-3f13-4c32-a1ae-d4f9cd2c3b8f/i/4606386/81e18c52-3c21-4da1-aace-f2baafead9fa.png](https://booth.pximg.net/7ae40447-3f13-4c32-a1ae-d4f9cd2c3b8f/i/4606386/cc7cbd6a-a9b1-4e27-adb6-26becc34e012.png))
 
 ### Main Camera
 
